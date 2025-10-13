@@ -1,5 +1,3 @@
-# Home
-
 **AlpenCamperVan**  
 **Live the Alpine Adventure**  
 
