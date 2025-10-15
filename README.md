@@ -16,9 +16,8 @@ ___________________________________________
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alpencampervan)
 
 
-### Rabattcodes
-
-[![Rabattcode](https://img.shields.io/badge/-Rabattcodes-%23FF5733?style=for-the-badge&logo=tag&logoColor=white)](h/rabattcodes)
+<!--[### Rabattcodes
+[![Rabattcode](https://img.shields.io/badge/-Rabattcodes-%23FF5733?style=for-the-badge&logo=tag&logoColor=white)](h/rabattcodes) -->
 
 <br>
 
