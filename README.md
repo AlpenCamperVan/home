@@ -18,7 +18,7 @@ ___________________________________________
 
 ### Rabattcodes
 
-[![Rabattcode](https://img.shields.io/badge/-Rabattcodes-%23FF5733?style=for-the-badge&logo=tag&logoColor=white)](https://testtesttest.de/rabattcodes)
+[![Rabattcode](https://img.shields.io/badge/-Rabattcodes-%23FF5733?style=for-the-badge&logo=tag&logoColor=white)](h/rabattcodes)
 
 <br>
 
