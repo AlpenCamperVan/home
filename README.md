@@ -1,7 +1,7 @@
 # **AlpenCamperVan**  
 ***- Live the Alpine Adventure -***  
 
-___________________________________________
+---
 
 <br>
 
@@ -21,11 +21,11 @@ ___________________________________________
 
 <br>
 
-___________________________________________
+---
 
 <br>
 
-## Bild- und Videorechte auf Instagram und YouTube
+### Bild- und Videorechte auf Instagram und YouTube
 
 Alle auf den Instagram- und YouTube-Kanälen von **AlpenCamperVan** veröffentlichten Bilder, Fotos und Videodateien sind urheberrechtlich geschützt und Eigentum vom Kanaleigentümer.
 
@@ -38,7 +38,7 @@ Die Nutzung ist nur nach vorheriger Absprache und gegen Entgelt gestattet.
 
 <br>
 
-___________________________________________
+---
 
 <br>
 <br>
