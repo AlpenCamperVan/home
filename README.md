@@ -27,7 +27,7 @@
 
 ### Bild-, Foto- und Videorechte auf Instagram und YouTube
 
-Alle auf den Instagram- und YouTube-Kanälen von **AlpenCamperVan** veröffentlichten Bilder, Fotos und Videodateien sind urheberrechtlich geschützt und Eigentum vom Kanaleigentümer.
+Alle auf den Instagram- und YouTube-Kanälen von **AlpenCamperVan** veröffentlichten Bilder, Fotos und Videodateien sind urheberrechtlich geschützt und Eigentum des Kanaleigentümers.
 
 Eine Verwendung, Vervielfältigung oder Weitergabe dieser Medien ohne ausdrückliche schriftliche Genehmigung ist **untersagt**.
 
