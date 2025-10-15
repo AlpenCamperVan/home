@@ -35,7 +35,6 @@ Eine Verwendung, Vervielfältigung oder Weitergabe dieser Medien ohne ausdrückl
 Für Anfragen zur Nutzung wenden Sie sich bitte an:  
 E-Mail: [info.alpencampervan@gmail.com](mailto:info.alpencampervan@gmail.com)  
 
-
 Die Nutzung ist nur nach vorheriger Absprache und gegen Entgelt gestattet.
 
 <br>
